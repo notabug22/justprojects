@@ -22,13 +22,11 @@ Structured rental transaction data including:
 - Subqueries
 
 ## Analysis Performed
-- Identified peak booking periods and seasonal demand trends
 - Evaluated vehicle category utilization rates
 - Analyzed pricing patterns across locations
 - Compared revenue performance by category and time period
 
 ## Key Insights
-- Weekend bookings showed significantly higher demand compared to weekdays
 - Certain vehicle categories remained underutilized despite competitive pricing
 - Seasonal trends indicated predictable demand spikes
 - Revenue concentration varied across rental locations
@@ -42,4 +40,4 @@ This analysis demonstrates how structured SQL queries can be used to:
 
 ## Repository Structure
 - `queries.sql` – All SQL queries used in the analysis
-- `screenshots/` – Output previews (if applicable)
+- `screenshots/` – Output previews 
