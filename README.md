@@ -17,3 +17,21 @@ This repository contains selected data analytics projects using SQL, Python, R, 
 - Compared affordability trends
 
 [View Project →](link)
+
+### 3. FP20 Mobile Sales Analysis (Power BI)
+- Mobile phone sales across different continents
+- Built interactive dashboards with slicers
+- KPIs published used DAX and Measures.
+- 
+[View Project →](link)
+  
+### 4. Bookshop Sales Analysis (Tableau)
+-
+-
+-
+[View Project →](link)
+
+
+  
+
+
